@@ -31,4 +31,5 @@ problem-number-problem-title/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0177-nth-highest-salary](https://github.com/amfarhnn/leetcode/tree/main/0177-nth-highest-salary/) | Medium |
+| [0180-consecutive-numbers](https://github.com/amfarhnn/leetcode/tree/main/0180-consecutive-numbers/) | Medium |
 <!---LeetCode Topics End-->
