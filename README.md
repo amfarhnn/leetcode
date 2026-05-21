@@ -24,3 +24,11 @@ problem-number-problem-title/
 - Improve problem-solving skills
 - Strengthen Python and SQL fundamentals
 - Keep solutions organized and easy to review
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0197-rising-temperature](https://github.com/amfarhnn/leetcode/tree/main/0197-rising-temperature/) | Easy |
+<!---LeetCode Topics End-->
